@@ -6,7 +6,6 @@
 }
 a{
     text-decoration: none;
-
 }
 ul{
     list-style: none;
@@ -44,7 +43,7 @@ ul{
 header {
 width: 100ww;
 height: 100vh;
-background-image:  url(./img/01.jpg);
+background-image:  url();
 background-size: cover;
 background-position: top;
 }

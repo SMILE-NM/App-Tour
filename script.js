@@ -4,5 +4,4 @@ function popShift(arr) {
     console.log(arr)
     return [shifted, popped];
   }
-  
   console.log(popShift(['challenge', 'is', 'not', 'complete', 'Hello world']));
